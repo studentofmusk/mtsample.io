@@ -807,10 +807,6 @@ video {
   margin-top: 1.25rem;
 }
 
-.mt-auto{
-  margin-top: auto;
-}
-
 .block{
   display: block;
 }
@@ -1281,14 +1277,6 @@ video {
 .text-xs{
   font-size: 0.75rem;
   line-height: 1rem;
-}
-
-.text-\[0\.5rem\]{
-  font-size: 0.5rem;
-}
-
-.text-\[0\.6rem\]{
-  font-size: 0.6rem;
 }
 
 .font-extrabold{
